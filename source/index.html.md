@@ -130,7 +130,7 @@ This endpoint retrieves all transactions of the authenticated user.
 
 ### HTTP Request
 
-`GET https://api.kontist.com/api/accounts/{accpunt_id}/transactions`
+`GET https://api.kontist.com/api/accounts/{account_id}/transactions`
 
 ### Query Parameters
 
